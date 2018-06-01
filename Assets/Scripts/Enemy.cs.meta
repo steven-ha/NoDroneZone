@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 382c1a1fd862949d8b73dbc64f7ec875
+timeCreated: 1495409125
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - boomSound: {fileID: 8300000, guid: a35431e97f22b1d43b2a0055cfae7563, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
